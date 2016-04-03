@@ -86,3 +86,17 @@ body {
 	background-position: center;
 	background-repeat: none;
 }
+
+.about
+{
+	
+}
+
+#about
+ {
+	font-size: 24px;
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	box-shadow: 20px 2px black;
+	text-transform: uppercase;
+}
